@@ -1,0 +1,9 @@
+
+POST http://localhost:3000/api/notes
+Content-Type: application/json
+
+{
+    "content" : "Practice they say makes perfect, that is what i have been up to lately",
+    "important" : false
+}
+
